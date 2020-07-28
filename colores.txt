@@ -1,0 +1,4 @@
+Principal:    #CE0E2D
+Gris obscuro: #231F20
+Gris:         #58585B
+Gris claro:   #939597

@@ -20,7 +20,6 @@ const HomeScreen = ({navigation}) => {
     );
 };
 
-export default HomeScreen;
 
 const styles = StyleSheet.create({
   container: {
@@ -29,3 +28,5 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
 });
+
+export default HomeScreen;
